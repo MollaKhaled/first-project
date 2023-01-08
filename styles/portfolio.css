@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    font-family: font-family: 'Open Sans', sans-serif;
+}
+
+.text-primary {
+    color: #FFFFFF;
+}
+
+.bgimg {
+    background: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1600px;
+    height: 808px;
+    left: 0px;
+    top: 0px;
+    padding: 300px 800px;
+    margin: auto;
+    display: flex;
+
+
+
+}
+
+.banner-title {
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+
+}
+
+.banner-description {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 30px;
+
+}
+
+.btn-primary {
+    color: #FFFFFF;
+
+}
+
+.btn-primary {
+    width: 160px;
+    height: 50px;
+    color: #005FAC;
+    border-radius: 5px;
+    margin-right: 20px;
+
+
+}
